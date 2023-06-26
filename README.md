@@ -16,6 +16,9 @@ https://user-images.githubusercontent.com/82709454/248779414-6be860a9-26c8-41a9-
 
 1.	WE HAVE CREATED A WEBSITE AND A WORKING MODEL USING ARDUINO AND RFID and ALSO DATA IS STORED IN FIRESTORE DATABASE , TWILLO LIBRARY
 
+   ![IMG-20230626-WA0019](https://github.com/soumyajit9979/Smart_O_thon/assets/82709454/aee87063-3255-4ffd-94b7-8b67d2d7456c)
+   
+
     https://user-images.githubusercontent.com/82709454/248779293-1a8e03d4-f593-4cef-ab28-514c795f4c2f.jpg
 
    
