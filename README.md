@@ -36,7 +36,8 @@ b. THE WORKING MODEL HAS THE FOLLOWING FEATURES:
 7.	NOW LIKE THAT WE PUT MATH AND CHEMISTRY COPY IN BAG.
 8.	NOW ON RUNNING THE COMPARISION CODE, IT CHECKS WHICH WHAT COPIES ARE MISSING FROM MONDAYS TIMETABLE AND WHAT COPIES ARE EXTRA
 9.	FOR EG. IN MONDAYS TIMETABLE THERE IS PHYSICS,CHEMISTRY AND MATH. THEN IF WE PUT MATH, CHEM, BIOLOGY COPY IN BAG, THEN RFID WILL BE SCANNED AND ADDED IN DATABASE
-   https://user-images.githubusercontent.com/82709454/248779299-f9f7e127-e372-4e41-9ff7-a64ba4d3cf70.jpg
+   ![IMG-20230626-WA0020](https://github.com/soumyajit9979/Smart_O_thon/assets/82709454/7cd48694-87b6-425b-a2b6-3b9829025aea)
+
 10.	ALSO MESSAGE WILL COME TO OUR PHONE THAT WE ARE MISSING PHYISCS COPY FROM BAG AND BIOLOGY COPY IS EXTRA. 
 THIS HELPS IN TELLING WHAT COPIES THE STUDENT IS MISSING AND WHAT EXTRA COPIES THE STUDENT IS CARRYING
 
@@ -47,6 +48,10 @@ THIS HELPS IN TELLING WHAT COPIES THE STUDENT IS MISSING AND WHAT EXTRA COPIES T
 
 
 SMART ATTENDANCE TRACKER
+
+https://github.com/soumyajit9979/Smart_O_thon/assets/82709454/c0108678-5877-4758-a9b7-fb0e68222714
+
+
 The project you described is an attendance system that utilizes an Arduino and a fingerprint sensor to store attendance data of present students in Excel as well as Firebase. Here's a detailed explanation of how this project works:
 
 Arduino: The Arduino serves as the microcontroller in this project, responsible for controlling the fingerprint sensor and managing the attendance data.
