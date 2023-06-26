@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  h1 {
+    color: #333333;
+    text-align: center;
+  }
+  
+  #attendanceTable {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  #attendanceTable th,
+  #attendanceTable td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #dddddd;
+  }
+  
+  #attendanceTable th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+  }
+  
